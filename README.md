@@ -30,4 +30,4 @@ Recommended deploying **Wazuh SIEM** as a cost-effective monitoring solution pro
 - threat likelihood assessment
 
 ## Full Report
-📄 [View Full Risk Analysis Report](risk-analysis-siem-report.pdf)
+📄 [View Full Risk Analysis Report](security-risk-analysis-siem-evaluation)
